@@ -1,0 +1,12 @@
+int x;
+double Glb_y;
+
+struct Std_s_s{
+    int z;
+};
+
+struct s Glb_a_s;
+
+int Std_foo_api(bool a, char b){
+    int Lc_y;
+}
